@@ -948,3 +948,6 @@ export COMPATIBILITY_MODE=true
 - 遵守相关的服务条款和法律法规
 
 项目作者对因使用本项目而产生的任何直接或间接损失不承担责任。
+
+
+Test auto-deploy from Zeabur
